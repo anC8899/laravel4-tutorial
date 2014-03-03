@@ -7,7 +7,13 @@ Laravel4教程
 众口难调，讲的不一定是你喜欢的，旨在解决大家在学习laravel过程中遇到的难题。感谢支持！
 
 ##提出你们想听的部分
-[https://github.com/joychao/laravel4-tutorial/issues](https://github.com/joychao/laravel4-tutorial/issues)
+去这里提交想法： [https://github.com/joychao/laravel4-tutorial/issues](https://github.com/joychao/laravel4-tutorial/issues)
+##### 注意
+请描述清楚几个点：
+ - 1、目前你感兴趣的点，结合你自己的PHP基础能力，别上来就入门到精通，那不可能。
+ - 2、官方文档不太全，你哪些知识不太清楚，比较不知道为啥那么用的。
+ - 3、讲解过程中你关注哪些细节。
+ - 4、我也要上班，工作很忙，纯属帮忙，所以不要要求太高。
 
 我根据数量多的来决定讲哪些部分
 

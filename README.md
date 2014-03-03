@@ -30,5 +30,6 @@ Laravel4教程
  - 进阶
     - composer的使用
     - 在github上托管项目
+    - 部署自己的项目到服务器上
     - Eloquent的使用
     - ... 

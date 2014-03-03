@@ -25,5 +25,4 @@ Laravel4教程
     - composer的使用
     - 在github上托管项目
     - Eloquent的使用
-    - 
-    - 
+    - ... 

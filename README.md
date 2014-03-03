@@ -10,3 +10,20 @@ Laravel4教程
 [https://github.com/joychao/laravel4-tutorial/issues](https://github.com/joychao/laravel4-tutorial/issues)
 
 我根据数量多的来决定讲哪些部分
+
+
+##计划
+ - 基础内容
+    - 快速开始 - 第一个Laravel应用
+    - 路由与控制器
+    - 模型与迁移
+    - 模板引擎blade
+    - 环境与基本配置
+    - 数据库的使用
+
+ - 进阶
+    - composer的使用
+    - 在github上托管项目
+    - Eloquent的使用
+    - 
+    - 
